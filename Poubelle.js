@@ -38,7 +38,7 @@ var marron = [
     "pots de yaourts",
 
 ];
-var fau=document.getElementById("faux");
+  var fau=document.getElementById("faux");
 var text=document.getElementById("vrais");
 var reponse=document.getElementById("reponse");
 var random = document.getElementById("block");
